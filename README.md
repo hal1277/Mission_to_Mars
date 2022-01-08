@@ -1,1 +1,3 @@
 # Mission_to_Mars
+
+The purpose of this assignment was to create an app using flask, Python, and MongoDB to scrap the web for Mars news and populate a page wiht the latest image from Nasa and a picture of each of the 4 hemispheres of Mars as well as table of data comparing Mars and Earth.  With a python code running in the background the photos and Nasa story can be easily refreshed with the click of a button.  After creating the basic page I updated the colour of the jumbotron and changed the styling of the scrape data button to add more visual appeal.  As well the components of the page were sized to be mobile device friendly.  
